@@ -4,5 +4,4 @@ const DMOMembers = [
   'Marek',
   'Stefano',
   'Karel',
-  'Barnabas'
 ]
